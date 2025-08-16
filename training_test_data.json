@@ -1,0 +1,255 @@
+{
+  "training_records": [
+    {
+      "name": "张三",
+      "team": "一班",
+      "score": 92.5,
+      "remark": "表现优秀，理论掌握扎实",
+      "absent": 0,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "李四",
+      "team": "一班",
+      "score": 85.0,
+      "remark": "基础良好",
+      "absent": 0,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "王五",
+      "team": "一班",
+      "score": 0,
+      "remark": "因病缺考",
+      "absent": 1,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "赵六",
+      "team": "二班",
+      "score": 88.5,
+      "remark": "答题准确率高",
+      "absent": 0,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "钱七",
+      "team": "二班",
+      "score": 76.0,
+      "remark": "需要加强理论学习",
+      "absent": 0,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "孙八",
+      "team": "二班",
+      "score": 90.0,
+      "remark": "优秀学员",
+      "absent": 0,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "周九",
+      "team": "三班",
+      "score": 82.0,
+      "remark": "",
+      "absent": 0,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "吴十",
+      "team": "三班",
+      "score": 0,
+      "remark": "请假缺考",
+      "absent": 1,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "张三",
+      "team": "一班",
+      "score": 87.5,
+      "remark": "操作熟练，反应迅速",
+      "absent": 0,
+      "trainingType": "仿真机"
+    },
+    {
+      "name": "李四",
+      "team": "一班",
+      "score": 89.0,
+      "remark": "实践能力强",
+      "absent": 0,
+      "trainingType": "仿真机"
+    },
+    {
+      "name": "王五",
+      "team": "一班",
+      "score": 91.5,
+      "remark": "技能掌握全面",
+      "absent": 0,
+      "trainingType": "仿真机"
+    },
+    {
+      "name": "赵六",
+      "team": "二班",
+      "score": 83.0,
+      "remark": "操作规范",
+      "absent": 0,
+      "trainingType": "仿真机"
+    },
+    {
+      "name": "钱七",
+      "team": "二班",
+      "score": 0,
+      "remark": "设备故障未完成",
+      "absent": 1,
+      "trainingType": "仿真机"
+    },
+    {
+      "name": "孙八",
+      "team": "二班",
+      "score": 86.5,
+      "remark": "动手能力较强",
+      "absent": 0,
+      "trainingType": "仿真机"
+    },
+    {
+      "name": "周九",
+      "team": "三班",
+      "score": 78.0,
+      "remark": "需要更多练习",
+      "absent": 0,
+      "trainingType": "仿真机"
+    },
+    {
+      "name": "吴十",
+      "team": "三班",
+      "score": 92.0,
+      "remark": "技术精湛",
+      "absent": 0,
+      "trainingType": "仿真机"
+    },
+    {
+      "name": "张三",
+      "team": "一班",
+      "score": 85.0,
+      "remark": "综合素质良好",
+      "absent": 0,
+      "trainingType": "其它"
+    },
+    {
+      "name": "李四",
+      "team": "一班",
+      "score": 80.0,
+      "remark": "",
+      "absent": 0,
+      "trainingType": "其它"
+    },
+    {
+      "name": "王五",
+      "team": "一班",
+      "score": 88.5,
+      "remark": "积极参与，态度端正",
+      "absent": 0,
+      "trainingType": "其它"
+    },
+    {
+      "name": "赵六",
+      "team": "二班",
+      "score": 0,
+      "remark": "临时出差",
+      "absent": 1,
+      "trainingType": "其它"
+    },
+    {
+      "name": "钱七",
+      "team": "二班",
+      "score": 75.5,
+      "remark": "基本合格",
+      "absent": 0,
+      "trainingType": "其它"
+    },
+    {
+      "name": "孙八",
+      "team": "二班",
+      "score": 89.0,
+      "remark": "表现突出",
+      "absent": 0,
+      "trainingType": "其它"
+    },
+    {
+      "name": "周九",
+      "team": "三班",
+      "score": 84.0,
+      "remark": "稳定发挥",
+      "absent": 0,
+      "trainingType": "其它"
+    },
+    {
+      "name": "吴十",
+      "team": "三班",
+      "score": 87.5,
+      "remark": "全面发展",
+      "absent": 0,
+      "trainingType": "其它"
+    },
+    {
+      "name": "郑十一",
+      "team": "四班",
+      "score": 93.0,
+      "remark": "新人王，潜力巨大",
+      "absent": 0,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "王十二",
+      "team": "四班",
+      "score": 81.5,
+      "remark": "进步显著",
+      "absent": 0,
+      "trainingType": "笔试"
+    },
+    {
+      "name": "李十三",
+      "team": "四班",
+      "score": 0,
+      "remark": "家庭原因缺考",
+      "absent": 1,
+      "trainingType": "笔试"
+    }
+  ],
+  "query_params": {
+    "basic_query": {
+      "pageNum": 1,
+      "pageSize": 10
+    },
+    "keyword_search": {
+      "keywords": "张",
+      "pageNum": 1,
+      "pageSize": 20
+    },
+    "team_filter": {
+      "team": "一班",
+      "pageNum": 1,
+      "pageSize": 20
+    },
+    "training_type_filter": {
+      "trainingType": "笔试",
+      "pageNum": 1,
+      "pageSize": 20
+    },
+    "absent_filter": {
+      "absent": 0,
+      "pageNum": 1,
+      "pageSize": 20
+    }
+  },
+  "update_data": {
+    "name": "张三更新",
+    "team": "一班",
+    "score": 95.0,
+    "remark": "经过培训后表现优异",
+    "absent": 0,
+    "trainingType": "笔试"
+  }
+}
+
